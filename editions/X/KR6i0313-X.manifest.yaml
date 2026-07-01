@@ -1,0 +1,312 @@
+canonical_identifier: bkk:krp/KR6i0313/X/v1
+canonical_location: https://kanripo.org/bkk/KR6i0313/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金光明經文句文句記會本
+  identifiers:
+    krp: KR6i0313
+    cbeta: X20n0358
+    cbeta_old_id: X20n0358
+    authorityid: CA0001786
+    json_key: X0358
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X20/X20n0358.xml
+    old_id: X20n0358
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0313_000-X.yaml, hash: 'sha256:3085c7cb258ba187a352eef28cbb5ff4be61a81e50eebf7f561ef8c68e6135e8'}
+  - {seq: 1, filename: KR6i0313_001-X.yaml, hash: 'sha256:ee6c545d8cfd6ff845ed08beb50f7c8765ec2927273149c9015fa746e9733006'}
+  - {seq: 2, filename: KR6i0313_002-X.yaml, hash: 'sha256:ef2c57fd1f69a88421348561eeb919e75a2fd5bca44c46ba93297656243451f3'}
+  - {seq: 3, filename: KR6i0313_003-X.yaml, hash: 'sha256:0b4482e348111253e60d60abb23c01c7b0c45a6a297c4d561d6e51f3894ed9fa'}
+  - {seq: 4, filename: KR6i0313_004-X.yaml, hash: 'sha256:10d99b39be3037beb482f4630706fe683f140860d99b19c95d2f4753e840e47c'}
+  - {seq: 5, filename: KR6i0313_005-X.yaml, hash: 'sha256:eabb18e0ef53f70918bfed51e89ba0d8800db4d69837b7df0429d4bb42d4cfee'}
+  - {seq: 6, filename: KR6i0313_006-X.yaml, hash: 'sha256:e91358b70986a817836b8484f907c81b45d3e5c4fc6490965601b6ca2df9cb9f'}
+  - {seq: 7, filename: KR6i0313_007-X.yaml, hash: 'sha256:5dbe6a2943c9042de14c700ceb54d90a7f7b699453406610552e3bcbef8cd968'}
+  - {seq: 8, filename: KR6i0313_008-X.yaml, hash: 'sha256:b97911c131a5f9ac65d71bbd8a7991ccabf6a8ac80dccc529a1c1d5dc4f9e0db'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0313_000-X.markers.yaml, hash: 'sha256:4a776e5f666cdc65dc78a79b323be88f83d26a0b80afba65e34d9ab79b905586'}
+  - {seq: 1, role: markers, filename: assets/KR6i0313_001-X.markers.yaml, hash: 'sha256:784e3c84ebd39ed163034c8603f7c8364e1287b656ce7d4826fefa0605830434'}
+  - {seq: 2, role: markers, filename: assets/KR6i0313_002-X.markers.yaml, hash: 'sha256:bf89e5bc594e80faa0400f083843975c1ea5553bb9b1bd865940bcc7e8385e8c'}
+  - {seq: 3, role: markers, filename: assets/KR6i0313_003-X.markers.yaml, hash: 'sha256:53f3743f08096968c94ee76c59ee18c81867f8bd026e3194ee94700fe0cd6eab'}
+  - {seq: 4, role: markers, filename: assets/KR6i0313_004-X.markers.yaml, hash: 'sha256:8391317b14faaca1b55f08fa2d0ff7c0abf7fa12eef7bda002d67348929fd929'}
+  - {seq: 5, role: markers, filename: assets/KR6i0313_005-X.markers.yaml, hash: 'sha256:0ea732a8e79a3dc4e42032f9b492f6bfc3e7dab97f4d8c5da6b7241bf8b6233f'}
+  - {seq: 6, role: markers, filename: assets/KR6i0313_006-X.markers.yaml, hash: 'sha256:cdb362de629e2c6143b4bd5ec9ca81cccd67585ee54dbeeccca6a336b67e5440'}
+  - {seq: 7, role: markers, filename: assets/KR6i0313_007-X.markers.yaml, hash: 'sha256:3b61a53e4fbb2a469e2da42bf26c2c4e9f7c8ff3af6c522637820b988c6bf759'}
+  - {seq: 8, role: markers, filename: assets/KR6i0313_008-X.markers.yaml, hash: 'sha256:6430e9e5d6d154b392b6ad2fd0db79001339e8170a86be4f6f2fa80f40ee150e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0313_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 25746
+  label: 金光明經文句文句記會本卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0313_X_001-mulu-1
+    span:
+    - body
+    - 49
+    - 49
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0313_X_001-mulu-2
+    span:
+    - body
+    - 2052
+    - 2052
+  label: 金光明經序品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0313_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 27801
+  label: 金光明經文句文句記會本卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0313_X_002-mulu-1
+    span:
+    - body
+    - 13903
+    - 13903
+  label: 金光明經壽量品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0313_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 24821
+  label: 金光明經文句文句記會本卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0313_X_003-mulu-1
+    span:
+    - body
+    - 8673
+    - 8673
+  label: 金光明經懺悔品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0313_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 20692
+  label: 金光明經文句文句記會本卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0313_X_004-mulu-1
+    span:
+    - body
+    - 9870
+    - 9870
+  label: 金光明經讚歎品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0313_X_004-mulu-2
+    span:
+    - body
+    - 17626
+    - 17626
+  label: 金光明經空品第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0313_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 25540
+  label: 金光明經文句文句記會本卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0313_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 22362
+  label: 金光明經文句文句記會本卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0313_X_006-mulu-1
+    span:
+    - body
+    - 49
+    - 49
+  label: 金光明經四天王品第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0313_X_006-mulu-2
+    span:
+    - body
+    - 17091
+    - 17091
+  label: 金光明經大辯天品第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0313_X_006-mulu-3
+    span:
+    - body
+    - 18023
+    - 18023
+  label: 金光明經功德天品第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0313_X_006-mulu-4
+    span:
+    - body
+    - 20118
+    - 20118
+  label: 金光明經堅牢地神品第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0313_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 25796
+  label: 金光明經文句文句記會本卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0313_X_007-mulu-1
+    span:
+    - body
+    - 49
+    - 49
+  label: 金光明經散脂鬼神品第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0313_X_007-mulu-2
+    span:
+    - body
+    - 6235
+    - 6235
+  label: 金光明經正論品第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0313_X_007-mulu-3
+    span:
+    - body
+    - 11223
+    - 11223
+  label: 金光明經善集品第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0313_X_007-mulu-4
+    span:
+    - body
+    - 13511
+    - 13511
+  label: 金光明經鬼神品第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0313_X_007-mulu-5
+    span:
+    - body
+    - 17311
+    - 17311
+  label: 金光明經授記品第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0313_X_007-mulu-6
+    span:
+    - body
+    - 19902
+    - 19902
+  label: 金光明經除病品第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0313_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 19865
+  label: 金光明經文句文句記會本卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0313_X_008-mulu-1
+    span:
+    - body
+    - 49
+    - 49
+  label: 金光明經流水長者子品第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0313_X_008-mulu-2
+    span:
+    - body
+    - 4413
+    - 4413
+  label: 金光明經捨身品第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0313_X_008-mulu-3
+    span:
+    - body
+    - 10189
+    - 10189
+  label: 金光明經讚佛品第十八
+  type: mulu
+  level: 1
+hash: sha256:977835e7595edbe43aab6f8803d339783140d7a7c1e2f60b93b1f3631b434c49

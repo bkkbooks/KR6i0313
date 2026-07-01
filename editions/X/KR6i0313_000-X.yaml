@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0313/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金光明經文句文句記會本
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X20/X20n0358.xml
+    old_id: X20n0358
+hash: sha256:3085c7cb258ba187a352eef28cbb5ff4be61a81e50eebf7f561ef8c68e6135e8
